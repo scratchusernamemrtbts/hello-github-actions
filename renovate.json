@@ -3,3 +3,8 @@
     "config:base"
   ]
 }
+{
+  "schedule": [
+    "before 6pm"
+  ]
+}
